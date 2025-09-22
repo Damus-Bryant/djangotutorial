@@ -1,0 +1,7 @@
+/* example styles */
+li a { color: green; }
+
+body {
+  background: white url("images/background.png") no-repeat;
+  /* the url is relative to this CSS file; no {% static %} inside CSS */
+}
