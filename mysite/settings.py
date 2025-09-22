@@ -24,6 +24,7 @@ SECRET_KEY = 'django-insecure-gp8**e%&8d=m4us8*(d3b=nop6mzs_wu*c037f^m$)qmk8xn24
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+# DEBUG_TOOLBAR_CONFIG = {"SHOW_TOOLBAR_CALLBACK": "mysite.settings.show_toolbar"}
 
 ALLOWED_HOSTS = []
 
